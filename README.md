@@ -8,7 +8,7 @@ Downloads of the SmartCart POS till as an app. This repository holds only the in
 | **Mac** (macOS 11 or later, Apple silicon or Intel) | [Download SmartCart-POS-Mac.dmg](https://github.com/mahfoos/smartcart-desktop/releases/latest/download/SmartCart-POS-Mac.dmg) |
 
 - **Windows:** run the downloaded file. If Windows says it protected your PC, choose *More info → Run anyway*.
-- **Mac:** open the downloaded file and drag SmartCart POS into Applications. The first time, if macOS can't check the developer, open *System Settings → Privacy & Security* and choose *Open Anyway*.
+- **Mac:** open the downloaded file and drag SmartCart POS into Applications. It's signed and checked by Apple, so it opens straight away.
 
 Sign in with your shop ID, email and password, as on the web. Installed apps update themselves.
 
